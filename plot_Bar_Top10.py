@@ -1,0 +1,10 @@
+# Plot top 10 important genes
+top_genes = gene_importance.head(10)
+plt.figure(figsize=(7, 10))
+sns.barplot(x=top_genes["Coefficient"], y=top_genes["Gene"], palette="Blues_d")
+plt.xlabel("Coefficient")
+plt.ylabel("Gene")
+plt.title("Top 10 Important Genes from SVM Model")
+plt.tight_layout()
+# plt.savefig(f"{dir_svm}/svm_top_genes.pdf")
+plt.show()
