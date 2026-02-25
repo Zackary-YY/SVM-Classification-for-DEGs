@@ -4,6 +4,6 @@ This code snippet calculates the Receiver Operating Characteristic (ROC) curve a
 # <span style='color:lightgreen'>*Citation*</span>
 If you found this code snippet helpful in your research, please consider citing it as follows:
 
-**Zackary YE**. *SVM-Based Classification of the DEGs of Bulk RNA-seq Data*. 2026. Available at: [https://github.com/Zackary-YY/SVM-Classification-for-DEGs](https://github.com/Zackary-YY/SVM-Classification-for-DEGs).
+**Zackary YE**. *SVM-Based Classification of the DEGs of Bulk RNA-seq Data*. 2026. Available at: [https://zackary-yy.github.io/SVM-Classification-for-DEGs/](https://zackary-yy.github.io/SVM-Classification-for-DEGs/).
 
 Thank you for acknowledging this work in your research!
